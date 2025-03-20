@@ -24,5 +24,6 @@ pip install pillow
 2️⃣ Uploadez vos images via l'interface 📂
 3️⃣ Les images seront automatiquement redimensionnées et téléchargées en .zip ✅
 
+---
 📩 Contact
 📬 Besoin d’aide ? Ouvrez une issue sur GitHub ou contactez-moi sur LinkedIn !
